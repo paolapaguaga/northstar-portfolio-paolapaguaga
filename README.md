@@ -13,15 +13,15 @@ Below are the projects I've completed so far, organized by module.
 
 ### Module 0: Foundations & First Steps (Prework)
 
-- **Project: Hello, Northstar.** Python script and Excel workbook with foundational analyses. [Link will go here once I push the project repo.]
-
+- **Project: Hello, Northstar.** Python script and Excel workbook with foundational analyses. https://github.com/paolapaguaga/northstar-prework-paolapaguaga.git
+  
 ### Module 1: Foundations of Analytics & Statistics (in progress)
 
-[Will be filled in as the course progresses]
+- **Projects:** https://github.com/paolapaguaga/northstar-module-01-foundations.git
 
-### Module 2: Excel for Analysts (upcoming)
+### Module 2: Excel for Analysts (in progress)
 
-[Will be filled in as the course progresses]
+In progress...
 
 [Continue this pattern through Module 12]
 
